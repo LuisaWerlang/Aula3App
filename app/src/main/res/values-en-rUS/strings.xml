@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aula3App</string>
+    <string name="valor_inicial">Initial value:</string>
+    <string name="hint_valor_inicial">Value in U$. E.g.: 1700.00</string>
+    <string name="aplicacao_mensal">Monthly application:</string>
+    <string name="hint_aplicacao_mensal">E.g.: 100.00</string>
+    <string name="tempo_aplicacao">Application time:</string>
+    <string name="hint_tempo_aplicacao">In months</string>
+    <string name="taxa">Rate:</string>
+    <string name="hint_taxa">E.g.: 0.02</string>
+    <string name="button_calcular">Calculate</string>
+    <string name="poupanca">Savings</string>
+    <string name="consumo">Total consumed U$:</string>
+    <string name="couvert">Artistic couvert U$:</string>
+    <string name="dividir">Divide the account by:</string>
+    <string name="calcular">Calculate final bill</string>
+    <string name="taxa_servico">Service fee (10%) U$:</string>
+    <string name="conta_total">Total account U$:</string>
+    <string name="valor_pessoa">Price per person U$:</string>
+</resources>
